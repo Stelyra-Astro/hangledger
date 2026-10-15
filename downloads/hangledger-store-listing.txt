@@ -1,0 +1,59 @@
+HangLedger: Picture Hanging
+Subtitle: Frame spacing & hanging guide
+Version: 1.0.0
+Support URL: https://stelyra-astro.github.io/hangledger/support.html
+Privacy Policy URL: https://stelyra-astro.github.io/hangledger/privacy.html
+Marketing URL: https://stelyra-astro.github.io/hangledger/
+
+PROMOTIONAL TEXT
+
+Plan your gallery wall, mark each support, and keep a printable hanging guide. Works offline. One purchase, with every feature included.
+
+DESCRIPTION
+
+Make room for your favorites.
+
+HangLedger turns your wall and frame measurements into a practical hanging plan. Arrange different frame sizes in centered rows, preview the layout to scale, and work through each frame with clear measurements from the wall's left edge and the floor.
+
+PLAN BEFORE THE FIRST HOLE
+• Mix up to 12 frames across 4 rows.
+• Set the wall dimensions, group center height and spacing.
+• Give every frame its own size and hanging hardware.
+• Preview the entire group to scale.
+
+MEASURE FOR THE HARDWARE YOU HAVE
+• Calculate one centered contact or two symmetric contacts.
+• Enter the actual contact drop from the top of each frame.
+• Work in inches, including fractions, or centimeters.
+• Follow a frame-by-frame guide and check off completed frames.
+
+SAVE, PRINT AND KEEP
+• Save wall plans on your iPhone.
+• Export a PDF with the layout and every contact coordinate.
+• Share or print using the iOS share sheet.
+• Export and import JSON backups to move your plans between devices.
+
+QUIETLY PRIVATE
+No account. No ads. No tracking. No subscription. Planning, saving and exporting work offline. One purchase includes every feature.
+
+Bring a tape measure. HangLedger calculates from the measurements you enter; it does not measure your wall with a camera. Coordinates refer to where the frame's hanger rests on the support, which may differ from the nail or screw entry point. Account for your hook's geometry, check with paper templates, and verify wall material, hidden utilities and hardware ratings before drilling.
+
+Designed for iPhone. English only. Requires iOS 17 or later.
+
+KEYWORDS (UNDER 100 CHARACTERS)
+
+gallery,wall,picture,frame,spacing,hang,measure,layout,decor,diy,hook,inch,centimeter,print
+
+WHAT'S NEW
+
+Meet HangLedger: offline wall planning, individual hanging coordinates, installation checklists and printable PDF guides.
+
+APP REVIEW NOTES
+
+HangLedger is a paid, offline iPhone utility. No login, subscription, in-app purchase or server is required. All functionality is included in the paid download.
+
+For a quick review, tap "Try a sample plan" on the first screen. Open "Start hanging" to view support contact coordinates and mark a frame as hung. To create your own project, tap "New plan", give it a name, adjust wall/frame measurements and tap "Save plan". The example measurements are editable. Invalid measurements display a validation message and disable saving.
+
+On a saved plan, "Export hanging guide" opens the native share sheet with a locally generated PDF. Settings provides JSON backup export/import. No camera, photo-library or location permissions are requested. Measurements are manually entered; this app does not claim camera-based measuring accuracy or assess wall strength.
+
+Contact: Stelyra-Astro@proton.me. Provide the account holder's required App Review contact name/phone in the private App Store Connect fields.
